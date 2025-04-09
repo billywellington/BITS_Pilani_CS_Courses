@@ -1,22 +1,45 @@
 #include <stdio.h>
 
+
 int main()
 {
-   
-   int numbers[2][3] = {
-                        {1, 2, 3},
-                        {4, 5, 6}
-                       };
+    // int num = 343455, digit = 343455, count = 0;
+    int num, count = 0, digit;
 
-   for(int i = 0; i < 2; i++)
-   {
+    printf("Enter a number: ");
+    scanf("%d", &num);
+    //Write your code here
+    digit = num;
+    while (digit != 0)
+    {
+        digit = digit / 10;
+        count++;
+    }
+    printf("The number of digits in the number is: %d\n", count);
+    char numArray[count+1];
+    char new_numArray[count+1];
+    printf("\nThe size of numArray is: %zu\n", sizeof(numArray));
+    printf("The size of new_numArray is: %zu\n", sizeof(new_numArray));
 
-      for(int j = 0; j < 3; j++)
-      {
-         printf("%d", numbers[i][j]);
-      }
-      printf("\n");
-   }
+    snprintf(numArray, sizeof(numArray), "%d", num);
+    printf("\nThis is the new array:");
 
-   return 0;
+    for (int i = 0; numArray[i] != '\0'; i++)
+    {
+        printf("%c", numArray[i]);
+    }
+
+    for (int i = 0; numArray[i] != '\0';i++)
+        {
+            new_numArray[count-1] = numArray[i];
+            count--;
+        }
+    
+    printf("\nThis is the reversed array:");
+    for (int i = 0; i < sizeof(new_numArray); i++)
+    {
+        printf("%c", new_numArray[i]);
+    }
+    printf("\n");
+
 }

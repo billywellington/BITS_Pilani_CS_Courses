@@ -1,0 +1,4 @@
+I am learning C file handling.
+This is the second line
+This is an appended line.
+Another line added without erasing old content.

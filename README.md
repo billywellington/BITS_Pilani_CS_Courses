@@ -23,11 +23,11 @@ University_Courses/
 ## 📌 How to Use
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/university-courses.git
+   git clone https://github.com/your-username/BITS_Pilani_CS_Courses.git
    ```
 2. Navigate to the repository:
    ```bash
-   cd university-courses
+   cd BITS_Pilani_CS_Courses
    ```
 3. Add your lecture notes, assignments, and practice files inside the respective folders.
 4. Commit and push updates:

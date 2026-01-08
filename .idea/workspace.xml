@@ -6,6 +6,7 @@
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="RiderCppLiveTemplatesSettings" type="string" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
   <component name="CMakeProjectFlavorService">
@@ -18,7 +19,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f83ddcb3-e643-4183-93a1-32400999fbf5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC215 - Command Line Interfaces and Scripting/Module5/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC215 - Command Line Interfaces and Scripting/Module5/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/struct_pointers.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task2-1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/ll_functions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/main.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/insertion_sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/recurs_func.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BITS_Pilani_CS_Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BITS_Pilani_CS_Courses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,37 +48,152 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="179" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;billywellington&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/billywellington/BITS_Pilani_CS_Courses.git",
+    "accountId": "e5790c20-b61f-4157-8537-02f821b43acc"
+  }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/ll_functions.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/main.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/main.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/recurs_func.c" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="OSm1amBg" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2wabB6pRsmJfPIt5q5ax94l62dC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.insertion_sort.c.executor": "Run",
+    "C/C++ File.main.c (1).executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
+    "C/C++ File.recurs_func.c.executor": "Run",
+    "C/C++ File.struct_pointers.c (1).executor": "Run",
+    "C/C++ File.struct_pointers.c.executor": "Run",
+    "C/C++ File.task1.c.executor": "Run",
+    "C/C++ File.task2.2.c (1).executor": "Run",
+    "C/C++ File.task2.2.c.executor": "Run",
+    "C/C++ File.task2.c.executor": "Run",
+    "C/C++ File.task3.c.executor": "Run",
+    "C/C++ File.task4.c.executor": "Run",
+    "C/C++ File.task5.c.executor": "Run",
+    "C/C++ File.task6.c.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/billy/CLionProjects/BITS_Pilani_CS_Courses",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\billy\CLionProjects\BITS_Pilani_CS_Courses\Semester_2\BCS_ZC311 - Data Structures and Algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.insertion_sort.c">
+    <configuration name="insertion_sort.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="insertion_sort.c" CONFIG_NAME="insertion_sort.c">
+      <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\Week_3\insertion_sort.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="Semester_2\BCS_ZC215 - Command Line Interfaces and Scripting\Module5\main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="main.c" CONFIG_NAME="main.c">
+      <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\Week_3\main.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="task4.c" CONFIG_NAME="task4.c">
+      <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\C_Revision\task4.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="task5.c" CONFIG_NAME="task5.c">
+      <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\C_Revision\task5.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="task6.c" CONFIG_NAME="task6.c">
+      <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\C_Revision\task6.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.insertion_sort.c" />
+        <item itemvalue="C/C++ File.main.c (1)" />
+        <item itemvalue="C/C++ File.task6.c" />
+        <item itemvalue="C/C++ File.task5.c" />
+        <item itemvalue="C/C++ File.task4.c" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f83ddcb3-e643-4183-93a1-32400999fbf5" name="Changes" comment="" />
@@ -67,10 +202,42 @@
       <option name="presentableId" value="Default" />
       <updated>1746282500435</updated>
       <workItem from="1746282507162" duration="842000" />
+      <workItem from="1765747948495" duration="4268000" />
+      <workItem from="1765809020317" duration="5644000" />
+      <workItem from="1765907665831" duration="4675000" />
+      <workItem from="1766006102167" duration="1585000" />
+      <workItem from="1766010449807" duration="525000" />
+      <workItem from="1766012387186" duration="1707000" />
+      <workItem from="1766077243999" duration="71000" />
+      <workItem from="1766188950395" duration="1235000" />
+      <workItem from="1766251272446" duration="34431000" />
+      <workItem from="1767394660294" duration="1589000" />
+      <workItem from="1767426005960" duration="1201000" />
+      <workItem from="1767830599651" duration="3193000" />
     </task>
+    <task id="LOCAL-00001" summary="adding files">
+      <option name="closed" value="true" />
+      <created>1767830525285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767830525285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

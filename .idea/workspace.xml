@@ -18,27 +18,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f83ddcb3-e643-4183-93a1-32400999fbf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC215 - Command Line Interfaces and Scripting/Module5/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC215 - Command Line Interfaces and Scripting/Module5/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/struct_pointers.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task2-1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/C_Revision/task6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/ll_functions.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_2/main.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/insertion_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/recurs_func.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BITS_Pilani_CS_Courses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BITS_Pilani_CS_Courses.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+    <list default="true" id="f83ddcb3-e643-4183-93a1-32400999fbf5" name="Changes" comment="adding practise fiels">
+      <change afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/linear_search.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Semester_2/BCS_ZC311 - Data Structures and Algorithms/Week_3/main.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +33,7 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="179" />
+    <option name="cachedIndexableFilesCount" value="183" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -103,6 +87,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.insertion_sort.c.executor": "Run",
+    "C/C++ File.linear_search.c.executor": "Run",
     "C/C++ File.main.c (1).executor": "Run",
     "C/C++ File.main.c.executor": "Run",
     "C/C++ File.recurs_func.c.executor": "Run",
@@ -137,7 +122,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
+    "settings.editor.selected.configurable": "settings.sync",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -147,9 +132,15 @@
       <recent name="C:\Users\billy\CLionProjects\BITS_Pilani_CS_Courses\Semester_2\BCS_ZC311 - Data Structures and Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.insertion_sort.c">
+  <component name="RunManager" selected="C/C++ File.linear_search.c">
     <configuration name="insertion_sort.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="insertion_sort.c" CONFIG_NAME="insertion_sort.c">
       <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\Week_3\insertion_sort.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linear_search.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="linear_search.c" CONFIG_NAME="linear_search.c">
+      <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\Week_3\linear_search.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -162,12 +153,6 @@
     </configuration>
     <configuration name="main.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="main.c" CONFIG_NAME="main.c">
       <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\Week_3\main.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BITS_Pilani_CS_Courses" TARGET_NAME="task4.c" CONFIG_NAME="task4.c">
-      <option name="sourceFile" value="Semester_2\BCS_ZC311 - Data Structures and Algorithms\C_Revision\task4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -186,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.linear_search.c" />
         <item itemvalue="C/C++ File.insertion_sort.c" />
         <item itemvalue="C/C++ File.main.c (1)" />
         <item itemvalue="C/C++ File.task6.c" />
         <item itemvalue="C/C++ File.task5.c" />
-        <item itemvalue="C/C++ File.task4.c" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +198,7 @@
       <workItem from="1766251272446" duration="34431000" />
       <workItem from="1767394660294" duration="1589000" />
       <workItem from="1767426005960" duration="1201000" />
-      <workItem from="1767830599651" duration="3193000" />
+      <workItem from="1767830599651" duration="10105000" />
     </task>
     <task id="LOCAL-00001" summary="adding files">
       <option name="closed" value="true" />
@@ -223,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767830525285</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding practise fiels">
+      <option name="closed" value="true" />
+      <created>1767877867051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767877867051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,5 +232,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding practise fiels" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding practise fiels" />
   </component>
 </project>
